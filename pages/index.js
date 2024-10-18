@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Nada a ser dito nesta linha de texto!</h1>
+        <h1>Novo Texto!</h1>
     );
 }
 
